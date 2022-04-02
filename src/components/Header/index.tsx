@@ -7,8 +7,12 @@ import { Container, Cart } from './styles';
 import { useCart } from '../../hooks/useCart';
 
 const Header = (): JSX.Element => {
-  // const { cart } = useCart();
-  // const cartSize = // TODO;
+  const { cart } = useCart();
+
+  const cartSize = cart.length;
+  // irá retornar o comprimento do array, um valor maior que a posição mais alta do array
+  // nesse caso o array vai de 0 a 5, a posição mais alta é 5, e o comprimento do array é 6
+  // somando todas as posições.
 
   return (
     <Container>
@@ -20,7 +24,7 @@ const Header = (): JSX.Element => {
         <div>
           <strong>Meu carrinho</strong>
           <span data-testid="cart-size">
-            {/* {cartSize === 1 ? `${cartSize} item` : `${cartSize} itens`} */}
+            {cartSize === 1 ? `${cartSize} item` : `${cartSize} itens`}
           </span>
         </div>
         <MdShoppingBasket size={36} color="#FFF" />
