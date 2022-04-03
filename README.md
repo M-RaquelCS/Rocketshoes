@@ -63,7 +63,7 @@ $ yarn server
 Then you will see the message:
 
 <div align="center"> 
-  <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F1abc3356-2936-4106-a4fe-a3fc8efd1373%2FUntitled.png?table=block&id=7fe88f6f-62c6-45c7-a898-d1672dbbe6bd&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=1910&userId=&cache=v2" width='500px'/>
+  <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9111a286-7fbf-45de-8256-20a1790f3686%2FUntitled.png?table=block&id=10decaeb-5521-44a6-88fa-a458d47050a0&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=1070&userId=&cache=v2" width='500px'/>
 </div>
 
 ## 🚀 Getting Started application layout
