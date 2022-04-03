@@ -18,7 +18,6 @@ The main goal in this challenge is to create a store shopping cart hook to imple
 - Inventory Validation
 - Displaying error messages
 
----
 ## 🖥️ Technologies
 This project was developed with the following technologies:
 
