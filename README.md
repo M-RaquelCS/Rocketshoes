@@ -18,6 +18,17 @@ The main goal in this challenge is to create a store shopping cart hook to imple
 - Inventory Validation
 - Displaying error messages
 
+---
+## 🖥️ Technologies
+This project was developed with the following technologies:
+
+- TypeScript
+- ReactJS
+- Styled Components
+- JSON Server
+- Toastify
+- LocalStorage API
+
 ## Fake API with JSON Server
 [JSON Server](https://github.com/typicode/json-server) is a library capable of creating a Fake API in 30 seconds and without having to write any lines of code. In this application JSON Server will simulate an API that has the information of genres and movies.
 
@@ -38,17 +49,6 @@ The main goal in this challenge is to create a store shopping cart hook to imple
   <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3dab8501-37a9-45e2-b2bf-1d36c3f084e5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220403%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220403T005004Z&X-Amz-Expires=86400&X-Amz-Signature=f09fa23489b7c38a2b870c04fd711c1e4f45186f37861b938c8e1578adf9b020&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" width='500px'/>
   <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5e172339-e918-4fe5-b603-ab9ab5116871/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220403%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220403T005408Z&X-Amz-Expires=86400&X-Amz-Signature=742413f3834b178acedb3b2d7ec552927ab9f1a66e6026e110b4578435817a9a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" width='500px'/>
 </div>
-
----
-## 🖥️ Technologies
-This project was developed with the following technologies:
-
-- TypeScript
-- ReactJS
-- Styled Components
-- JSON Server
-- Toastify
-- LocalStorage API
 
 ### 🚀 Getting Started with JSON Server
 
