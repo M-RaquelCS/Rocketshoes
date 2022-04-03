@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/stars/M-RaquelCS/Rocketshoes?color=%23835afd" alt='stars'/>
 </p>
 
-# Rocketshoes - First Challenge of Chapter One
+# Rocketshoes - First Challenge of Chapter Two
 
 ## About challenge 🤷
 The main goal in this challenge is to create a store shopping cart hook to implement all the features needed for a product choice experience. The features requested are:
